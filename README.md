@@ -12,3 +12,5 @@ Please make sure you :
 3. ⁠Please keep all your branches and PRs, no need to delete anything
 4. ⁠Merge the final release into master
 5. ⁠⁠Please include few screenshot or screen recording of the final result. Sometimes I need to make sure that what I see on my end is similar to what you're getting.
+
+Please submit within 3 days start from you receive the invitation
